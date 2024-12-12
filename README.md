@@ -22,5 +22,11 @@ In this project we generates the reports in two views over all sales report and 
  ## Dashboard
  ![Screenshot (92)](https://github.com/user-attachments/assets/0bfd9bda-8211-4f6c-9890-65e5492afb88)
 
+ ## Conclusion
+ The Pizza Sales Dashboard project has successfully utilized SQL to provide meaningful insights into the sales performance 
+ of a pizza restaurant or chain. By leveraging SQL queries, data aggregation, and filtering techniques. The project 
+ highlights the potential of SQL as a powerful tool for business intelligence, enabling data-driven decision-making that can 
+ lead to increased profitability and operational efficiency in the pizza industry.
+
 
 
