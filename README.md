@@ -18,4 +18,8 @@ In this project we generates the reports in two views over all sales report and 
  * average Pizzas Per Order: The average number of pizzas sold per order,calculated by dividing the total number of pizzas 
    sold by the total number of orders.
 
+ ## Dashboard
+ ![Screenshot (92)](https://github.com/user-attachments/assets/0bfd9bda-8211-4f6c-9890-65e5492afb88)
+
+
 
